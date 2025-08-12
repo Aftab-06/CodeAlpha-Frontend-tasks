@@ -1,30 +1,67 @@
-# 🚀 CodeAlpha Frontend Tasks
+# CodeAlpha Frontend Tasks
 
-This repository contains my **CodeAlpha Frontend Internship** tasks.  
-Each project is built with HTML, CSS, and JavaScript and demonstrates different front-end development skills.
-
----
-
-## 📂 Projects Summary
-
-| Project Name       | Description | Live Demo | Code Repository |
-|--------------------|-------------|-----------|-----------------|
-| **Calculator**     | A simple calculator with basic arithmetic operations and a clean UI. | [Live Demo](https://aftab-06.github.io/CodeAlpha-Calculator/) | [Repo](https://github.com/Aftab-06/CodeAlpha-Calculator) |
-| **Image Gallery**  | A responsive image gallery with a lightbox view and smooth transitions. | [Live Demo](https://aftab-06.github.io/CodeAlpha-ImageGallery/) | [Repo](https://github.com/Aftab-06/CodeAlpha-ImageGallery) |
-| **Music Player**   | A web-based music player with play, pause, and next/previous track features. | [Live Demo](https://aftab-06.github.io/CodeAlpha-Music-Player/) | [Repo](https://github.com/Aftab-06/CodeAlpha-Music-Player) |
+This repository contains the frontend development tasks I completed during my **CodeAlpha Internship**.  
+Each project is built using **HTML**, **CSS**, and **JavaScript** (with some additional libraries where required).
 
 ---
 
-## 📌 How to Use
-1. Click on the **Live Demo** link to preview the project.
-2. Click on the **Code Repository** link to see the source code.
-3. Clone the repository and run the HTML file in your browser.
+## 🚀 Live Project Links
+
+- **Calculator** → [Live Demo](https://aftab-06.github.io/CodeAlpha_Calculator/)
+- **Image Gallery** → [Live Demo](https://aftab-06.github.io/CodeAlpha_ImageGallery/)
+- **Music Player** → [Live Demo](https://aftab-06.github.io/CodeAlpha-Music-Player/)
+- **Personal Portfolio** → [Live Demo](https://aftab-06.github.io/Personal-Portfolio/)
+
+---
+
+## 📂 Project Details
+
+### 1. Calculator
+A simple and interactive calculator built using HTML, CSS, and JavaScript, capable of performing basic arithmetic operations.
+
+**Features:**
+- Addition, subtraction, multiplication, division
+- Responsive UI
+- Keyboard input support
+
+---
+
+### 2. Image Gallery
+A responsive image gallery with smooth animations and modal pop-up viewing.
+
+**Features:**
+- Grid-based layout
+- Click to enlarge image
+- Mobile-friendly design
+
+---
+
+### 3. Music Player
+A custom music player built using HTML5 audio API with interactive controls.
+
+**Features:**
+- Play, pause, next, and previous buttons
+- Song progress bar
+- Responsive UI
+
+---
+
+### 4. Personal Portfolio
+A personal portfolio website showcasing my skills, projects, and contact information.
+
+**Features:**
+- About, Skills, Projects, Contact sections
+- Mobile-first responsive design
+- Smooth scroll animations
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
 
 ---
 
 ## 📜 License
-This project is open-source and free to use.
-
----
-
-💡 *Made with ❤️ by [Aftab Hussain](https://github.com/Aftab-06) during the CodeAlpha Internship.*
+This project is open-source and available under the [MIT License](LICENSE).
